@@ -1,2 +1,2 @@
-# mi-repositorio
+# mi primer README
 Repositorio en GitHub para curso
